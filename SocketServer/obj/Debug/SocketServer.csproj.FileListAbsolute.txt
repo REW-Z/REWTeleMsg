@@ -1,0 +1,10 @@
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\obj\Debug\SocketServer.Form1.resources
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\dell-pc\Desktop\Test\SocketTest\SocketServer\obj\Debug\SocketServer.pdb
